@@ -3,7 +3,7 @@
 <html>
 	<head>
 		<title>Liquid Layout</title>
-		
+		<link rel="stylesheet" media="screen" href="Module04.style.css" type="text/css"/>
 	</head>
 	<body>
 		<div id="header">
