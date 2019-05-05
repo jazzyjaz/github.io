@@ -3,7 +3,13 @@
 				font-family: Arial, Verdana, sans-serif;
 				color: #665544;
 				text-align: center;}
+p { 
+   font-family: 'SpaceMeatballRegular'; 
+   font-weight: normal; 
+  font-style: normal; }
 			body {
+			  background-image: url("https://stylist-assets.imgix.net/app/uploads/2017/10/25102922/198a186dda6c447797434c5aa6c00576-827x551.jpg?w=1200&h=1&fit=max&auto=format%2Ccompress");
+ background-color: #cccccc;
 				width: 90%;
 				margin: 0 auto;}
 			#content {
@@ -13,17 +19,18 @@
 			.column1, .column2, .column3 {
 				width: 31.3%;
 				float: left;
-				margin: 1%;}
+              margin: 1%; }
+
 			.column3 {
 				margin-right: 0%;}
 			li {
 				display: inline;
 				padding: 0.5em;}
 			#nav, #footer {
-				background-color: #efefef;
+				background-color: Purple;
 				padding: 0.5em 0;}
 			#feature, .article {
 				height: 10em;
 				margin-bottom: 1em;
-				background-color: #efefef;}
-		</style>
+				background-color: teal;}
+</style>
