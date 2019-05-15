@@ -122,3 +122,4 @@ border-top: 1px solid #1f1f1f;
 
 .left { float: left; }
 .right { float: right; }
+.clear { clear: both; }
